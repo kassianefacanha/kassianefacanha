@@ -1,8 +1,10 @@
-### Olá pessoal! 👋
+### Hi! 👋
 
  
 <br/>
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+
+
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
 [![GitHub KassianeFacanha](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/kassianefacanha)&nbsp;
@@ -49,10 +51,10 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 <br />
 ### 📫 &nbsp; How to reach me:
 
-
+<br /><br />
 <a href="https://www.linkedin.com/in/kassiane-fa%C3%A7anha-133727197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:kassikaka9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/kassianefacanha/"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/kassianefacanha/"><img src="https://img.shields.io/badge/-@kassianefacanha-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
  
 <br />
 <br />
