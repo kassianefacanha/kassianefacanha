@@ -15,7 +15,7 @@
 
 I am Kassiane, I am 23 years old and I am finishing my degree in Computer Science. I love technology and its fields of study. My greatest affinity is with web development, more specifically the front-end. I am a person who loves challenges and always seeks to learn more. I like to help people and I am very proactive.
 
-💡 &nbsp; I am a web developer, currently working in the area at Lead Dell. \
+💡  &nbsp; I am a web developer, currently working in the area at Lead Dell. \
 🎓 &nbsp; I am currently a graduate student in Computer Science at the Federal University of Ceará on the Quixadá campus. \
 🌱 &nbsp; I'm on track to learn more about artificial intelligence, machine learning and IoT \
 ✍️ &nbsp; In my free time, I play guitar, drums, keyboard, ukulele, play strategic games and listen to music. \
@@ -31,12 +31,11 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<img align="left" alt="JavaScript" width="26px" src="https://img2.gratispng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" />
+<img align="left" alt="JavaScript" width="26px" src="https://www.clipartmax.com/png/middle/150-1504620_javascript-logo.png" />
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <img align="left" alt="Vuejs" width="26px" src="https://012.vuejs.org/images/logo.png" />
-<img align="left" alt="React" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngix.com%2Fviewpng%2FTihxTwT_react-js-logo-png-transparent-png%2F&psig=AOvVaw0JetTWT1MAqSNFIhuKoLWd&ust=1621704582636000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCWpsWm2_ACFQAAAAAdAAAAABAD" />
-<img align="left" alt="Colab" width="26px" src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png" />
+<img align="left" alt="React" width="26px" src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" />
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
@@ -49,6 +48,8 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 
 <br />
 <br />
+
+
 ### 📫 &nbsp;How to reach me:
 
 <br /><br />
