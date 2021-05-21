@@ -4,7 +4,7 @@
 
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub KassianeFacanha](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/kassianefacanha)&nbsp;
+[![GitHub KassianeFacanha](https://img.shields.io/github/followers/kassianefacanha?label=follow&style=social)](https://github.com/kassianefacanha)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <br/>
 
@@ -32,7 +32,7 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <img align="left" alt="Vuejs" width="26px" src="https://012.vuejs.org/images/logo.png" />
-<img align="left" alt="React" width="26px" src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" />
+<img align="left" alt="React" width="26px" src="https://image.pngaaa.com/930/2507930-middle.png" />
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
