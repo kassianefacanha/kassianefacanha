@@ -32,7 +32,7 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <img align="left" alt="Vuejs" width="26px" src="https://012.vuejs.org/images/logo.png" />
-<img align="left" alt="React" width="26px" src="https://www.pinclipart.com/picdir/middle/207-2071102_es7-snippets-react-native-icon-png-clipart.png" />
+<img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
