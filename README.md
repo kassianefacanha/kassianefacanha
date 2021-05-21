@@ -2,7 +2,9 @@
 
  
 <br/>
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+
+
+###  <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>Hello there !
 
 
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
@@ -38,6 +40,7 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
+
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -49,7 +52,7 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 
 <br />
 <br />
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp;How to reach me:
 
 <br /><br />
 <a href="https://www.linkedin.com/in/kassiane-fa%C3%A7anha-133727197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -59,4 +62,4 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 <br />
 <br />
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Kassiane Façanha github stats](https://github-readme-stats.vercel.app/api?username=kassianefacanha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
