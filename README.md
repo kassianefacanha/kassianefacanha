@@ -28,7 +28,7 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<img align="left" alt="JavaScript" width="26px" src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-txirr&psig=AOvVaw3e0n7DRdREarAr4Wv5Offo&ust=1621705113160000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjAtcSo2_ACFQAAAAAdAAAAABAc" />
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <img align="left" alt="Vuejs" width="26px" src="https://012.vuejs.org/images/logo.png" />
