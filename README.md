@@ -14,7 +14,7 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 
 💡  &nbsp; I am a web developer, currently working in the area at Lead Dell. \
 🎓 &nbsp; I am currently a graduate student in Computer Science at the Federal University of Ceará on the Quixadá campus. \
-🌱 &nbsp; I'm on track to learn more about artificial intelligence, machine learning and IoT \
+🌱 &nbsp; I'm on track to learn more about artificial intelligence, machine learning and IoT. \
 ✍️ &nbsp; In my free time, I play guitar, drums, keyboard, ukulele, play strategic games and listen to music. \
 💬 &nbsp; Feel free to contact me for general advice or discussions on the topics mentioned above! \
 ✉️ &nbsp; You can send me an email to kassilopes9@gmail.com. I will try to answer as soon as possible! \
