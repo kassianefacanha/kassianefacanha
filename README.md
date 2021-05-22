@@ -49,7 +49,6 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 
 ### 📫 &nbsp;How to reach me:
 
-<br /><br />
 <a href="https://www.linkedin.com/in/kassiane-fa%C3%A7anha-133727197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:kassikaka9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/kassianefacanha/"><img src="https://img.shields.io/badge/-@kassianefacanha-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
