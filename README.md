@@ -57,6 +57,6 @@ I am Kassiane, I am 23 years old and I am finishing my degree in Computer Scienc
 <br />
 <div>
   <a href="https://github.com/kassianefacanha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassianefacanhani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassianefacanhani&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassianefacanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassianefacanha&layout=compact&langs_count=16&theme=dracula"/>
 <div>
