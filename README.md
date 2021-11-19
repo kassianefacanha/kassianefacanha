@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am Kassiane, I am 23 years old and I am finishing my degree in Computer Science. I love technology and its fields of study. My greatest affinity is with web development, more specifically the front-end. I am a person who loves challenges and always seeks to learn more. I like to help people and I am very proactive.
+I am Kassiane, I am 24 years old and I am finishing my degree in Computer Science. I love technology and its fields of study. My greatest affinity is with web development, more specifically the front-end. I am a person who loves challenges and always seeks to learn more. I like to help people and I am very proactive.
 
 💡  &nbsp; I am a web developer, currently working in the area at Lead Dell. \
 🎓 &nbsp; I am currently a graduate student in Computer Science at the Federal University of Ceará on the Quixadá campus. \
