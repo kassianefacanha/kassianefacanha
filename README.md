@@ -18,7 +18,7 @@ I'm Kassiane, I'm 24 years old and finishing my degree in Computer Science. I lo
 ✍️ &nbsp; In my free time, I play guitar, drums, keyboard, ukulele, play strategic games and listen to music. \
 💬 &nbsp; Feel free to contact me for general advice or discussions on the topics mentioned above! \
 ✉️ &nbsp; You can send me an email to kassilopes9@gmail.com. I will try to answer as soon as possible! \
-📄 &nbsp; You can check my [Resume] (https://drive.google.com/file/d/1Vll1ci0hLlO54b8wZ_47yCSIWWat6GUJ/view?usp=sharing) for more details on the work experience.
+📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1vpgR0_HrMk_sgpagF5iEfEPnqznqYrVf/view?usp=sharing) for more details on the work experience.
 
 
 <br />
