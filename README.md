@@ -10,17 +10,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Tech facilitator of the web development course at Resilia Educação and Master's student in Informatics at PUC-Rio. I love technology and its fields of study. My biggest affinity is with web development, more specifically front-end. I am a person who loves challenges and is always looking to learn more. I like to help people and I am very proactive.
+Front-end developer and researcher at PUC-Rio, passionate about technology and its various fields. My expertise lies in web development, particularly in front-end, where I thrive on solving challenges and continuously expanding my knowledge. Proactive and collaborative, I enjoy sharing insights and helping others grow.
 
-✏️ &nbsp; Tech facilitator, currently working from Resilia. \
-💡 &nbsp; I'm a web developer, I worked in the area at Lead Dell. \
-📚&nbsp; Master's student in Computer Science at the Pontifical Catholic University of Rio de Janeiro. \
-🎓 &nbsp; I have a degree in Computer Science from the Federal University of Ceará on the Quixadá campus. \
-🌱&nbsp; I'm on my way to learning more about data science, artificial intelligence, machine learning, and IoT. \
-✍️ &nbsp; In my spare time, I play guitar, drums, keyboards, ukulele, strategy game and listen to music. \
-💬&nbsp; Feel free to contact me for general advice or discussions on the topics mentioned above! \
-✉️ &nbsp; You can email me at kassilopes9@gmail.com. I will try to answer as soon as possible! \
-📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1vpgR0_HrMk_sgpagF5iEfEPnqznqYrVf/view?usp=sharing) for more details on work experience.
+- 💡 Currently working as a front-end developer at PUC-Rio.
+- 🎓 Graduated in Computer Science from the Federal University of Ceará (Quixadá campus).
+- 🌱 Exploring new horizons in data science, artificial intelligence, machine learning, and IoT.
+- ✍️ In my free time, I play musical instruments (guitar, drums, keyboards, and ukulele), enjoy strategy games, and listen to music.
+- 💬 Open to discussions or advice on the topics mentioned above.
+- ✉️ Contact me at kassilopes9@gmail.com – I'll respond as soon as possible!
+- 📄 Check my resume for more details about my work experience.
 <br />
 <br />
 
